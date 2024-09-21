@@ -19,9 +19,9 @@ const Contact = () => {
           Contact Us
         </h2>
         <div className="emailBox">
-          <a className="mailBtn" href="mailto:mewHelp@gmail.com">
+          <a className="mailBtn" href="mailto:rushabhsjain40@gmail.com">
             <Button>
-              mewHelp@gmail.com <IosShareIcon />
+            rushabhsjain40@gmail.com <IosShareIcon />
             </Button>
           </a>
         </div>
@@ -54,7 +54,7 @@ const Contact = () => {
           Address
         </h2>
         <div className="addressBox">
-          <h3>New Delhi, India</h3>
+          <h3>Panvel, India</h3>
         </div>
       </div>
     </div>

@@ -10,6 +10,14 @@ const path = require("path");
 if (process.env.NODE_ENV !== "PRODUCTION") {
   require("dotenv").config({ path: "backend/config/config.env" });
 }
+const cors = require('cors');
+
+// Allow requests from your frontend
+app.use(cors({
+  origin: 'http://localhost:4000', // Replace this with the correct frontend URL
+  credentials: true, // If you are using cookies for authentication
+}));
+
 
 app.use(express.json());
 app.use(cookieParser());

@@ -1,11 +1,11 @@
 import React from "react";
 import "./about.css";
 import { Button, Typography, Avatar } from "@material-ui/core";
-import ProfileHead from "../../../images/Head.PNG";
+import ProfileHead from "../../../images/logo.PNG";
 
 const About = () => {
   const visitLinkedin = () => {
-    window.location = "https://www.linkedin.com/in/mohammad-owais-555317201/";
+    window.location = "https://www.linkedin.com/in/rushabh-jain-79855a23a/";
   };
   return (
     <div className="aboutContainer">
@@ -16,8 +16,11 @@ const About = () => {
           src={ProfileHead}
           alt="Founder"
         />
-        <h1>Mohammad Owais</h1>
-        <h3>(Head of MEW)</h3>
+        <h1>Rushabh Jain</h1>
+        {/* <h3>(Head of MEW)</h3><br></br> */}
+        <h1>Aditya Kale</h1>
+        <h1>Sachin Singh</h1>
+        <h1>Joel Manoj</h1>
         <Button onClick={visitLinkedin} color="primary">
           Visit My Linkedin
         </Button>
