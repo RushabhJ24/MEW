@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { Rating } from "@material-ui/lab";
+import "./Home.css";
 
 const ProductCard = ({ product }) => {
   const options = {
