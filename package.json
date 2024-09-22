@@ -20,10 +20,9 @@
   "main": "backend/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node backend/server.js",
-    "postinstall": "npm install --prefix ../frontend && npm run build --prefix ../frontend"
+    "start": "node backend/server.js"
   },
-  "author": "owais",
+  "author": "Rushabh",
   "license": "ISC",
   "description": ""
 }

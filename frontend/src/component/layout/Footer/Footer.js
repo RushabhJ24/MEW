@@ -42,7 +42,7 @@ const Footer = () => {
             variations of India.
           </p>
           <p>"'Discover Ethnic Indian Products'"</p>
-          <p className="copy">Copyrights 2022 &copy;MEW </p>
+          <p className="copy">Copyrights 2024 &copy;MEW </p>
         </div>
 
         <div className="rightFooter">
