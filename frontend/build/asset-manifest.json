@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a8a5fbf0.css",
+    "main.js": "/static/js/main.2de53687.js",
+    "static/media/ban10.jpg": "/static/media/ban10.da7daf9b21708a5cb63d.jpg",
+    "static/media/ban2.webp": "/static/media/ban2.a9b3b36d2aff5c40d102.webp",
+    "static/media/ban8.jpg": "/static/media/ban8.1d0f8992abf5e03bd41c.jpg",
+    "static/media/ethnic-mens (1).jpg": "/static/media/ethnic-mens (1).67660f9f04bb0e77aa3b.jpg",
+    "static/media/logo.PNG": "/static/media/logo.fccf9836ff2f0bddad38.PNG",
+    "static/media/mew logo2.PNG": "/static/media/mew logo2.a3df5e0bcde4d61fbaba.PNG",
+    "index.html": "/index.html",
+    "main.a8a5fbf0.css.map": "/static/css/main.a8a5fbf0.css.map",
+    "main.2de53687.js.map": "/static/js/main.2de53687.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a5fbf0.css",
+    "static/js/main.2de53687.js"
+  ]
+}
